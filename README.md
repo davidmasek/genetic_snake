@@ -1,6 +1,9 @@
 # Genetic Snake
 Genetic algorithm framework for the game Snake. Provides GUI for configuration of genetic algorithm parameters, loading and saving models and watching the models play the game.
 
+<img src="game_sample.png" alt="Game GUI" height="400"/>
+<img src="interface_sample.png" alt="Interface GUI" height="400"/>
+
 ## How to run:
 ```$ python -m genetic_snake```
 
@@ -8,7 +11,7 @@ Genetic algorithm framework for the game Snake. Provides GUI for configuration o
 - python 3.6+ (https://www.python.org/downloads/)
 - tkinter (python 3 version) (sudo apt install python3-tk)
 
-### Note:
+#### Note:
 good.individual contains individual that can be loaded from the game interface
 
 ### Configuration:
