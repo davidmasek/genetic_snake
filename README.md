@@ -24,3 +24,4 @@ Original project made as a semestral work for BI-ZUM at [FIT CTU](https://fit.cv
 
 ### Made with / Thanks to
 - Course materials for [BI-ZUM](https://courses.fit.cvut.cz/BI-ZUM/) - CTU students access only.
+- [A Field Guide to Genetic Programming](http://www.gp-field-guide.org.uk/)
